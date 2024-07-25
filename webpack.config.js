@@ -9,7 +9,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },
-  mode: 'production',
+  mode: 'development',
   plugins: [
     new HtmlWebpackPlugin({
         template: './src/index.html',
