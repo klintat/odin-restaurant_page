@@ -1,0 +1,1 @@
+This is my Restaurant Page project for the JavaScript course in the Odin Project's Full Stack JavaScript curriculum.
