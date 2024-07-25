@@ -34,6 +34,7 @@ function menu() {
             const desc = document.createElement("div");
             const price = document.createElement("div");
 
+            categoryContainer.classList.add('category-container');
             info.classList.add('info');
             itemContainer.classList.add('menu-item');
             name.classList.add('name');
