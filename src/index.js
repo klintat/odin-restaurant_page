@@ -1,6 +1,7 @@
 import { home } from './pages/home';
 import { menu } from './pages/menu';
-import { about } from './pages/about'
+import { about } from './pages/about';
+import { contact } from './pages/contact';
 
 home();
 
