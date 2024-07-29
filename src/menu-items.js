@@ -39,7 +39,7 @@ export default [
         items: [
             {
                 name: 'Bacon and Cheddar Pancakes:',
-                description: 'Pancakes filled with crispy bacon and melted cheddar cheese, served with a side of sour cream.',
+                description: 'Pancakes filled with crispy bacon and melted cheddar cheese, served with sour cream.',
                 price: '€6.50',
             },
             {

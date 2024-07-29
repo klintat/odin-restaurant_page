@@ -20,7 +20,7 @@ function contact() {
     imageContainer.classList.add("img-container");
     contactImg.classList.add("contact-img");
 
-    contactInfoTitle.innerHTML = `Contact us`;
+    contactInfoTitle.innerHTML = `Contact Us`;
     contactInfo.innerHTML = `Email: contact@pancakebar.com<br><br>Phone: (+371) 21234567
     <br><br>Address: 987 Pancake boulevard, Flat Town, FT-2244`;
     workingTimeTitle.innerHTML = `Working Hours`;
