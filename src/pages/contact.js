@@ -11,7 +11,6 @@ function contact() {
     const contactImg = new Image ();
     contactImg.src = contactImage;
 
-    content.classList.add("contact-content");
     contactContainer.classList.add("contact-container");
     contactInfoTitle.classList.add("contact-info-title");
     contactInfo.classList.add("contact-info");

@@ -301,15 +301,10 @@ footer {
 
 /* Contact page layout */
 
-.contact-content {
-    display: flex; 
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: center;}
-
 .contact-container {
-    height: 70vh; 
-    width: 50%; 
+    height: 88vh;
+    width: 50%;
+    margin: auto;
     display: flex; 
     flex-direction: column; 
     align-items: center; 
