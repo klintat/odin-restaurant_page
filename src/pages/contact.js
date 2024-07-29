@@ -24,7 +24,7 @@ function contact() {
     contactInfo.innerHTML = `Email: contact@pancakebar.com<br><br>Phone: (+371) 21234567
     <br><br>Address: 987 Pancake boulevard, Flat Town, FT-2244`;
     workingTimeTitle.innerHTML = `Working Hours`;
-    workingTime.innerHTML = `Mon - Fri: 8am - 8pm<br><br>Sat - Sun: 9am - 9pm`;
+    workingTime.innerHTML = `Mon - Fri: 8:00 a.m. - 8:00 p.m.<br><br>Sat - Sun: 9:00 a.m. - 9:00 p.m.`;
 
     content.appendChild(contactContainer);
     contactContainer.appendChild(contactInfoTitle);
